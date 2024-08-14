@@ -1,7 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="10px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -966 -659 )">
-    <path d="M 971 659  C 973.8 659  976 661.2  976 664  C 976 666.8  973.8 669  971 669  C 968.2 669  966 666.8  966 664  C 966 661.2  968.2 659  971 659  Z " fill-rule="nonzero" fill="#333333" stroke="none" />
-    <path d="M 971 659.5  C 973.52 659.5  975.5 661.48  975.5 664  C 975.5 666.52  973.52 668.5  971 668.5  C 968.48 668.5  966.5 666.52  966.5 664  C 966.5 661.48  968.48 659.5  971 659.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" version="1.1"><g><path fill="#333" fill-rule="nonzero" stroke="none" d="M 971 659 C 973.8 659 976 661.2 976 664 C 976 666.8 973.8 669 971 669 C 968.2 669 966 666.8 966 664 C 966 661.2 968.2 659 971 659 Z" transform="matrix(1 0 0 1 -966 -659 )"/><path fill="none" stroke="#797979" stroke-width="1" d="M 971 659.5 C 973.52 659.5 975.5 661.48 975.5 664 C 975.5 666.52 973.52 668.5 971 668.5 C 968.48 668.5 966.5 666.52 966.5 664 C 966.5 661.48 968.48 659.5 971 659.5 Z" transform="matrix(1 0 0 1 -966 -659 )"/></g></svg>
