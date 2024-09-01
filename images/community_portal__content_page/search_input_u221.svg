@@ -1,11 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="432px" height="40px" viewBox="448 32  432 40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="538.0343511450382" y1="66.42748091603059" x2="777.1698473282443" y2="52.256488549618325" id="LinearGradient514">
-      <stop id="Stop515" stop-color="#80ffff" offset="0" />
-      <stop id="Stop516" stop-color="#04031d" stop-opacity="0.9921568627450981" offset="1" />
-    </linearGradient>
-  </defs>
-  <path d="M 449.5 52  A 18.5 18.5 0 0 1 468 33.5 L 860 33.5  A 18.5 18.5 0 0 1 878.5 52 A 18.5 18.5 0 0 1 860 70.5 L 468 70.5  A 18.5 18.5 0 0 1 449.5 52 Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" />
-  <path d="M 449 52  A 19 19 0 0 1 468 33 L 860 33  A 19 19 0 0 1 879 52 A 19 19 0 0 1 860 71 L 468 71  A 19 19 0 0 1 449 52 Z " stroke-width="2" stroke="url(#LinearGradient514)" fill="none" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="40" version="1.1" viewBox="448 32 432 40"><defs><linearGradient id="LinearGradient514" x1="538.034" x2="777.17" y1="66.427" y2="52.256" gradientUnits="userSpaceOnUse"><stop id="Stop515" offset="0" stop-color="#80ffff"/><stop id="Stop516" offset="1" stop-color="#04031d" stop-opacity=".992"/></linearGradient></defs><path fill="#fff" fill-opacity="0" fill-rule="nonzero" stroke="none" d="M 449.5 52 A 18.5 18.5 0 0 1 468 33.5 L 860 33.5 A 18.5 18.5 0 0 1 878.5 52 A 18.5 18.5 0 0 1 860 70.5 L 468 70.5 A 18.5 18.5 0 0 1 449.5 52 Z"/><path fill="none" stroke="url(#LinearGradient514)" stroke-width="2" d="M 449 52 A 19 19 0 0 1 468 33 L 860 33 A 19 19 0 0 1 879 52 A 19 19 0 0 1 860 71 L 468 71 A 19 19 0 0 1 449 52 Z"/></svg>
